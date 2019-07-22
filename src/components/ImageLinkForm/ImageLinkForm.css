@@ -6,4 +6,10 @@
 button{
 	background: #9466B2;
 	cursor: pointer;
+	border-radius: 4px;
+}
+
+input, button{
+	border: 0;
+	outline: none;
 }
