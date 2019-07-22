@@ -4,9 +4,12 @@ const Rank = () => {
 
 	return(
 		<div>
-			<p className='f3'>
-				{'This app will detect faces in your pictures'}
-			</p>
+			<div className=' white f3'>
+				{'Your current rank is ...'}
+			</div>
+			<div className=' white f2'>
+				{'#5'}
+			</div>
 			
 		</div>
 
