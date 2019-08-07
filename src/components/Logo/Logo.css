@@ -4,7 +4,7 @@ background: -webkit-linear-gradient(to right, #86fde8, #acb6e5);  /* Chrome 10-2
 background: linear-gradient(to right, #86fde8, #acb6e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-img{
+.Tilt-inner img{
 	width: 100px;
 	padding-top: 10px;
 }
