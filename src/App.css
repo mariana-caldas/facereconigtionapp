@@ -7,13 +7,6 @@ nav{
   justify-content: flex-end;
 }
 
-.center{
-	display: flex;
-	justify-content: center;
-	margin-left: 10px !important;
-	margin-right: 10px !important;
-}
-
 .particles{
 	position: fixed;
 	top: 0;

@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Clarifai from 'clarifai';
 import Navigation from './components/Navigation/Navigation';
+import Signin from './components/Signin/Signin';
 import Logo from './components/Logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
@@ -61,6 +62,7 @@ class App extends Component {
         <Particles className ='particles'
         params={particlesOptions} />
         <Navigation />
+        <Signin />
         <Logo />
         <Rank />
         <ImageLinkForm onInputChange={this.onInputChange} onButtonSubmit={this.onButtonSubmit}/>
