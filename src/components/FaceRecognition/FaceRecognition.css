@@ -6,3 +6,11 @@
 	justify-content: center;
 	cursor: pointer;
 }
+
+
+.image-centered{	
+	display: flex;	
+	justify-content: center;	
+	margin-left: 10px;	
+	margin-right: 10px;
+}
